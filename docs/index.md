@@ -1,4 +1,4 @@
-# Welcome to Pundah's site
+# Welcome
 
 There is not much planned for this public site, however, feel free to look around.
 
